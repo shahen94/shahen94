@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahen94&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](./github-metrics.svg)
+![Display Compact](./metrics.plugin.achievements.compact.svg)
