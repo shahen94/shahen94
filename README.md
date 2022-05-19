@@ -5,6 +5,8 @@
 ![Metrics](./github-metrics.svg)
 #
 
+![](https://visitor-badge.glitch.me/badge?page_id=shahen94)
+
 ### Anything to discuss ? Reach me out
 <div>
   <a href="https://www.linkedin.com/in/hshahen" target="_blank">
