@@ -5,8 +5,6 @@
 ![Metrics](./github-metrics.svg)
 #
 
-![](https://visitor-badge.glitch.me/badge?page_id=shahen94)
-
 ### Anything to discuss ? Reach me out
 <div>
   <a href="https://www.linkedin.com/in/hshahen" target="_blank">
@@ -17,3 +15,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/292px-Twitter-logo.svg.png" width="30px" height="30px">
   </a>
 </div>
+
+#
+![Personal Page Views](https://visitor-badge.glitch.me/badge?page_id=shahen94)
