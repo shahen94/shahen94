@@ -12,7 +12,7 @@
   </a>
   &nbsp &nbsp
   <a href="https://twitter.com/hshahenn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/292px-Twitter-logo.svg.png" width="30px" height="30px">
+    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1712793600&semt=ais" width="30px" height="30px">
   </a>
 </div>
 
